@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  metabase:
+  - apiVersion: v1
+    appVersion: v0.30.1
+    created: 2018-10-05T14:53:13.098439318+01:00
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: 22f2d02cdf8e3318b2a1cb619cacdb1b967a93fa9a63dd8de931edc99594469a
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: phamminhthanh69@gmail.com
+      name: pmint93
+    - email: lee@aimbrain.com
+      name: Lee Archer
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - http://aimbrain.github.io/helm-charts/metabase-1.0.0.tgz
+    version: 1.0.0
+generated: 2018-10-05T14:53:13.097675692+01:00

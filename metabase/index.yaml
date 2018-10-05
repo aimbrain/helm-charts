@@ -1,0 +1,42 @@
+apiVersion: v1
+entries:
+  metabase:
+  - apiVersion: v1
+    appVersion: v0.30.1
+    created: 2018-10-05T14:51:40.37771427+01:00
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: 74132a26d9d187e8e99e3f3765054439d229b6fd6978d986f320a28a7c4a2c11
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: phamminhthanh69@gmail.com
+      name: pmint93
+    - email: lee@aimbrain.com
+      name: Lee Archer
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - http://aimbrain.github.io/helm-charts/metabase-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    appVersion: v0.30.1
+    created: 2018-10-05T14:51:40.378110642+01:00
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: 64f4a369aa4759f28bf29d4084b61307e165f7a4d02114925c4c69ac684b13b1
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    maintainers:
+    - email: phamminhthanh69@gmail.com
+      name: pmint93
+    - email: lee@aimbrain.com
+      name: Lee Archer
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - http://aimbrain.github.io/helm-charts/metabase/metabase-1.0.0.tgz
+    version: 1.0.0
+generated: 2018-10-05T14:51:40.377093327+01:00
